@@ -4,6 +4,7 @@ import ItemList from './components/ItemList';
 import { Item } from './types';
 import './App.css';
 
+// const API_URL = 'http://localhost:3001';
 const API_URL = 'https://backapp-production-7a7c.up.railway.app';
 
 function App() {
